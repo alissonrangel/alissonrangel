@@ -1,4 +1,4 @@
-![Twitter URL](https%3A%2F%2Ftwitter.com%2Falissonrangel10)
+![Twitter URL](https://img.shields.io/twitter/url?label=Alisson&style=social&url=https%3A%2F%2Ftwitter.com%2Falissonrangel10)
 ### Hi there 👋
 
 <!--

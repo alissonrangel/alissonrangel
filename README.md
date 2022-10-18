@@ -1,5 +1,5 @@
 ![Twitter URL](https://img.shields.io/twitter/url?label=Alisson&style=social&url=https%3A%2F%2Ftwitter.com%2Falissonrangel10)
-### Hi there 👋
+### Hi there! 👋 I'm Alisson Rangel
 
 <!--
 **alissonrangel/alissonrangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<div> 
+ <a href = "mailto:alisson.rangel@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alisson-rangel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<a href="https://www.linkedin.com/in/alisson-rangel/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="50px" />
+</a> 
 -->
+

@@ -1,5 +1,28 @@
-![Twitter URL](https://img.shields.io/twitter/url?label=Alisson&style=social&url=https%3A%2F%2Ftwitter.com%2Falissonrangel10)
-### Hi there! 👋 I'm Alisson Rangel
+# Alisson Rangel
+**Hi there! 👋 I'm Alisson Rangel**
+
+## Conecte-se comigo
+[![GitHub](https://img.shields.io/badge/GitHub-282c34?style=for-the-badge&logo=github&logoColor=85a96d)](https://github.com/alissonrangel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-282c34?style=for-the-badge&logo=linkedin&logoColor=85a96d)](https://www.linkedin.com/in/alisson-rangel/)
+[![Twitter URL](https://img.shields.io/badge/Twitter-282c34?style=for-the-badge&logo=twitter&logoColor=85a96d)](https://twitter.com/alissonrangel10)
+
+
+## Habilidades
+![HTML5](https://img.shields.io/badge/HTML5-282c34?style=for-the-badge&logo=html5) 
+![CSS](https://img.shields.io/badge/css-282c34?style=for-the-badge&logo=CSS3)
+![JS](https://img.shields.io/badge/JAVASCRIPT-282c34?style=for-the-badge&logo=Javascript&)
+![TS](https://img.shields.io/badge/TYPESCRIPT-282c34?style=for-the-badge&logo=Typescript&)
+
+
+## Minhas Estatísticas do Github
+![Estatísticas do Github](https://github-readme-stats.vercel.app/api?username=alissonrangel&show_icons=true&theme=onedark)
+
+## Linguagens mais comuns
+![Linguagens mais comuns](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonrangel&layout=compact&langs_count=6&theme=onedark)
+
+
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alissonrangel&repo=dio-lab-open-source&bg_color=282c34&border_color=fff&show_icons=true&icon_color=85a96d&title_color=e4bf7a&text_color=df6d74)](https://github.com/alissonrangel/dio-lab-open-source)
 
 <!--
 **alissonrangel/alissonrangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

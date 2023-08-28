@@ -20,6 +20,8 @@
 ## Linguagens mais comuns
 ![Linguagens mais comuns](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonrangel&layout=compact&langs_count=6&theme=onedark)
 
+## Card Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alissonrangel&theme=onedark&background=282c34&border=30A3DC&dates=df6d74)](https://git.io/streak-stats)
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alissonrangel&repo=dio-lab-open-source&bg_color=282c34&border_color=fff&show_icons=true&icon_color=85a96d&title_color=e4bf7a&text_color=df6d74)](https://github.com/alissonrangel/dio-lab-open-source)

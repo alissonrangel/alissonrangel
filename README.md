@@ -4,7 +4,6 @@
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-282c34?style=for-the-badge&logo=github&logoColor=85a96d)](https://github.com/alissonrangel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282c34?style=for-the-badge&logo=linkedin&logoColor=85a96d)](https://www.linkedin.com/in/alisson-rangel/)
-[![Twitter URL](https://img.shields.io/badge/Twitter-282c34?style=for-the-badge&logo=twitter&logoColor=85a96d)](https://twitter.com/alissonrangel10)
 
 
 ## Habilidades
